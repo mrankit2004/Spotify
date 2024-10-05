@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@200&display=swap');
+body{
+    background-color: antiquewhite;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    font-family: Bebas Neue;
+}
+li {
+    font-size: 1.3rem;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    background-color: black;
+    height: 65px;
+    color: white;
+}
+nav ul li {
+    padding: 0 12px;
+}
+.brand img {
+    width: 63px;
+    padding: 0 8px;
+}
+.brand {
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 2.3rem;
+}
+.container {
+    min-height: 64vh;
+    background-color: black;
+    color: white;
+    font-family: bebas neue;
+    display: flex;
+    margin: 23px auto;
+    width: 70%;
+    border-radius: 10px;
+    padding: 35px;
+    background-image: url(covers/gta\ 6\ bg.jpeg);   
+    
+}
+.buttom {
+    position: sticky;
+    height: 115px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 50px;
+}
+.icons {
+    margin-top: 10px;
+    
+}
+#myprogressbar {
+    width: 80vw;
+    margin-top: 30px;
+   
+}
+.songItem {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.name1 {
+    font-size: 35px;
+    color: black;
+    margin-left: -20px;
+}
+.playbutton1 {
+    font-size: 35px;
+    margin-left: 135px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton2 {
+    font-size: 35px;
+    margin-left: 90px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton3{
+    font-size: 35px;
+    margin-left: 90px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton4 {
+    font-size: 35px;
+    margin-left: 103px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton5 {
+    font-size: 35px;
+    margin-left: 108px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton6 {
+    font-size: 35px;
+    margin-left: 86px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton7 {
+    font-size: 35px;
+    margin-left: 112px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton8 {
+    font-size: 35px;
+    margin-left: 116px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton9 {
+    font-size: 35px;
+    margin-left: 89px;
+    color: black;
+    padding-top: 5px;
+}
+.playbutton10 {
+    font-size: 35px;
+    margin-left: 118px;
+    color: black;
+    padding-top: 5px;
+}
+.songItem2 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem2 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+
+}
+.songItem3 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem3 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.songItem4 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem4 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.songItem5 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem5 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.songItem6 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem6 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.songItem7 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem7 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.songItem8 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem8 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.songItem9 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem9 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+.songItem10 {
+    height: 50px;
+    display: flex;
+    background-color: white;
+    width: 361px;
+    margin: 12px 0 ;
+    border-radius: 30px;
+}
+.songItem10 img {
+    height: 41px;
+    width: 53px;
+    margin-top: 4px;
+    margin-left: 26px;
+    margin-right: 34px;
+    border-radius: 156px;
+}
+
+
+
+
